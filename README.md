@@ -1,3 +1,3 @@
 pip install pytest-playwright , 
-playwright install
+playwright install ,
 run command pytest
